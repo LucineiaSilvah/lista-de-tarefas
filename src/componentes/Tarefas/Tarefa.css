@@ -1,0 +1,18 @@
+.tarefa-container{
+  background-color: #444;
+  margin: 8px 0;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  color: #eee;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+}
+.btn-remove-tarefa,.btn-info-tarefa{
+  background-color: #444;
+  border:  none;
+  font-size: 24px;
+  color: rgb(158, 3, 219);
+  
+}
